@@ -1,0 +1,20 @@
+{
+  "users": {
+    "06468142": {
+      "sudoList": [
+        "06468142@s.whatsapp.net",
+        "06468142@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/DigiX.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
